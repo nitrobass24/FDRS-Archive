@@ -28,3 +28,6 @@ List of releases:
 
 ## Version 35.5.5
 [Download FDRS_35.5.5.exe](https://github.com/nitrobass24/FDRS-Archive/releases/tag/v35.5.5)
+
+## Version 35.5.4
+[Download FDRS_35.5.4.exe](https://github.com/nitrobass24/FDRS-Archive/releases/tag/v35.5.4)
