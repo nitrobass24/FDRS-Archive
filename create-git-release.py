@@ -4,7 +4,7 @@ import base64
 
 # Constants
 GITHUB_API = "https://api.github.com"
-TOKEN = "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"  # Replace with your GitHub token
+TOKEN = ""  # Replace with your GitHub token
 REPO_OWNER = "nitrobass24"         # Replace with your username or organization
 REPO_NAME = "FDRS-Archive"           # Replace with your repository name
 DIRECTORY_PATH = "./releases/"  # Directory containing the binaries
