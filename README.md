@@ -67,3 +67,6 @@ List of releases:
 
 ## Version 40.4.5
 [Download FDRS_40.4.5.exe](https://github.com/nitrobass24/FDRS-Archive/releases/tag/v40.4.5)
+
+## Version 40.4.1
+[Download FDRS_40.4.1.exe](https://github.com/nitrobass24/FDRS-Archive/releases/tag/v40.4.1)
